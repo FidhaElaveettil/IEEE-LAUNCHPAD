@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Fidha Elaveettil, and I recently graduated from Collge of Engineering Thalassery in B.tech Information Technology.I am currently seeking an entry-level position as a software developer, where I can apply my knowledge and skills to real-world projects and continue to grow as a professional.I have a foundation in several programming languages and technologies, including HTML, JavaScript, Python, Java,C Programming and CSS. My coursework and projects during my studies have equipped me with the ability to develop dynamic and responsive web applications, as well as problem-solving skills necessary for software development.I am passionate about coding and enjoy learning new technologies to keep up with the fast-paced world of software development. I am excited about the opportunity to contribute to innovative projects and collaborate with a team of talented professionals.In addition to my technical skills, I am a quick learner and a dedicated worker. I am eager to bring my enthusiasm and dedication to a dynamic team, where I can contribute to the success of the company while honing my skills and gaining valuable experience.
 
 
 ## Portfolio Highlights
